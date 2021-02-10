@@ -23,7 +23,7 @@ Start the server by running:
 
 or build and run the docker image with
 
-    ocker build -t valheim .
+    docker build -t valheim .
     mkdir -p /opt/valheim/
     docker run -d --name=valheim \
     -v /opt/valheim/:/home/steam/valheim/ \
