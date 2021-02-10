@@ -37,5 +37,3 @@ or build and run the docker image with
     valheim:latest
 
 Thanks to https://github.com/CanadaBry/ValheimDocker for the help in the Valheim Discord.
-
-test
